@@ -1,0 +1,21 @@
+{
+  "name": "readfileshowcommon",
+  "version": "1.0.0",
+  "description": "Creates a function that will read a text file and use a function from a previously created package to calculate the most repeated letter.",
+  "main": "analyzetxt.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compute": "node analyzetxt.js ./text/text_file.txt"
+  },
+  "keywords": [],
+  "author": "Ivan Stasiv",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StasIvan77/findCommonLetterInTxt.git"
+  },
+  "bugs": {
+    "url": "https://github.com/StasIvan77/findCommonLetterInTxt/issues"
+  },
+  "homepage": "https://github.com/StasIvan77/findCommonLetterInTxt#readme"
+}
